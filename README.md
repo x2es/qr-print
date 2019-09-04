@@ -2,8 +2,17 @@ LIVE: https://x2es.github.io/qr-print/
 
 QR Codes generator service
 
-Development tips
-================
+Custom Development Tips
+=======================
+
+## Publish gh-pages
+
+```
+npm run deploy
+```
+
+create-react-app tips
+=====================
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
