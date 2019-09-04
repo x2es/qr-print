@@ -2,6 +2,7 @@
   "name": "qr-print",
   "version": "0.1.0",
   "private": true,
+  "homepage" : "http://x2es.github.io/qr-print/live",
   "dependencies": {
     "lodash.uniq": "~4.5.0",
     "node-sass": "~4.12.0",
