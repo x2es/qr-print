@@ -1,3 +1,10 @@
+LIVE: https://x2es.github.io/qr-print/
+
+QR Codes generator service
+
+Development tips
+================
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
